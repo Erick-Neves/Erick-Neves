@@ -1,18 +1,20 @@
-### Hi there!  :wave:
+### <h1>Hi there! :wave:</h1><img align="right" width="350" src="img/dev.png" />
  
-### I'm Erick Neves! :robot:
+## I'm Erick Neves! 
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=erick-neves.erick-neves" alt="Visitas"></p>
+
+I'm Full Stack Developer Focused in Java | Angular :nerd_face:
+
+Bootcamp Genaration Brazil - Java Full Stack Developer 💻
+
+FATEC - Faculdade de Tecnologia - Jogos Digitais 💻
+
+## Contact :grin:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Erick-Neves)](https://github.com/Erick-Neves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-neves-aba959151)](https://www.linkedin.com/in/erick-neves-aba959151)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batistasd678@gmail.com)](mailto:batistasd678@gmail.com)
-
-<img align="center" width="250" height="250" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif">
-
-## About :grin:
-
-I'm Full Stack Developer Focused in Java | Angular :nerd_face:
-
-<!--![carbon.png](https://www.imagemhost.com.br/images/2020/10/17/carbon.png)-->
 
 ## My Skills :zap:
 
@@ -32,8 +34,8 @@ I'm Full Stack Developer Focused in Java | Angular :nerd_face:
 <center>
 <table>
   <tr>
-      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=erick-neves&show_icons=true&theme=dracula></td>
-      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=erick-neves&show_icons=true&theme=dracula&layout=compact></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=erick-neves&show_icons=true&theme=dracula></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=erick-neves&show_icons=true&theme=dracula&layout=compact></td>
   </tr>  
 </table>
 </center>
