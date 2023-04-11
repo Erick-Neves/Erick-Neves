@@ -6,6 +6,19 @@
 
 I'm Erick Neves, graduated in Digital Games, working as an Automation and Performance Analyst, and I want to share the best of myself with the world.
 
+IT professional with experience developed in the areas of Certification, Infrastructure and Systems Implementation in Medium and Large Companies.
+
+Experience in hardware and software technical support for internal and external customers, telephone, online and face-to-face.
+
+Agile, critical analysis of incidents and processes, and performance in resolution.
+Homologation of "Features", manual and functional tests.
+
+I am an enthusiast with a logical, creative and dynamic mindset for problem solving, nerd, I have an interest in technology and knowledge sharing.
+
+Passionate about design, symmetry and details.
+
+I love what I do and I feel fulfilled during the process of creating and developing something new.
+
 ## Education :book:
 
 I'm Full Stack Developer Focused in Java | Angular 🤓
