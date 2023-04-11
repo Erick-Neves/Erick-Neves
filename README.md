@@ -1,20 +1,26 @@
-### <h1>Hi there! :wave:</h1><img align="right" width="350" src="img/dev.png" />
- 
-## I'm Erick Neves! 
+![](C:\Dev\Erick-Neves\img\banner.png)
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=erick-neves.erick-neves" alt="Visitas"></p>
 
-I'm Full Stack Developer Focused in Java | Angular :nerd_face:
+### <h1>:wave: WHO AM I :wave:</h1>
 
-Bootcamp Genaration Brazil - Java Full Stack Developer 💻
+I'm Erick Neves, graduated in Digital Games, working as an Automation and Performance Analyst, and I want to share the best of myself with the world.
+
+## Education :book:
+
+I'm Full Stack Developer Focused in Java | Angular 🤓
+
+Bootcamp Generation Brazil - Java Full Stack Developer 💻
 
 FATEC - Faculdade de Tecnologia - Jogos Digitais 💻
 
 ## Contact :grin:
 
+You can find me here <a href="https://snoweegamecorp.com/">snoweegamecorp.com</a>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Erick-Neves)](https://github.com/Erick-Neves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-neves-aba959151)](https://www.linkedin.com/in/erick-neves-aba959151)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batistasd678@gmail.com)](mailto:batistasd678@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick.n.b.araujo@gmail.com)](mailto:erick.n.b.araujo@gmail.com)
 
 ## My Skills :zap:
 
