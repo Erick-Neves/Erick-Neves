@@ -1,4 +1,4 @@
-![](C:\Dev\Erick-Neves\img\banner.png)
+![banner](img/banner.png)
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=erick-neves.erick-neves" alt="Visitas"></p>
 
