@@ -1,6 +1,6 @@
 ![banner](img/banner.png)
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=erick-neves.erick-neves" alt="Visitas"></p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=erick-neves.erick-neves" alt="Visitas">
 
 ### <h1>:wave: WHO AM I :wave:</h1>
 
